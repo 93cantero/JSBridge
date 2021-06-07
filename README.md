@@ -1,6 +1,7 @@
 # JustBridge
 
 ![pod](https://img.shields.io/badge/pod-4.2.0-brightgreen.svg)
+![spm](https://img.shields.io/static/v1?label=SPM&message=v4.2.0&color=orange)
 ![iOS](https://img.shields.io/badge/iOS-8.0-green.svg)
 ![lisence](https://img.shields.io/badge/license-MIT-orange.svg)
 ![swift](https://img.shields.io/badge/swift-5.0-red.svg)
@@ -13,7 +14,14 @@ An iOS bridge for sending messages between Swift and JavaScript in WKWebView
 
 ![Screenshots](https://github.com/Xiaoye220/JSBridge/blob/master/ScreenShot/ScreenShot.gif)
 
-## CocoaPods
+
+## Installation
+
+### Swift Package Manager
+
+Xcode -> Files -> Swift Package Manager -> Add Package Dependency -> Enter this framework's url
+
+### CocoaPods
 
 ```
 use_frameworks!
